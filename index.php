@@ -3,7 +3,7 @@
 <head></head>
 	<body>
 		<div>
-		<img src = "classdiagram.png" width="100%" height="100%">
+		<img src = "workshop.png" width="100%" height="100%">
 		</div>
 	</body>
 </html>
